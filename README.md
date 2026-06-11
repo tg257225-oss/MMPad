@@ -9,4 +9,4 @@ This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary enc
 - 9x DSA Keycaps
 - 4x M3x16mm screws
 ## Images
-![CAD Screenshot](assets/cad.png)
+![CAD Screenshot](Assets/cad.png)

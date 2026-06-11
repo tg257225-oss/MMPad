@@ -8,3 +8,5 @@ This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary enc
 - 1x Seeed XIAO RP2040
 - 9x DSA Keycaps
 - 4x M3x16mm screws
+## Images
+![CAD Screenshot](assets/cad.png)

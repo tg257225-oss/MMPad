@@ -10,3 +10,5 @@ This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary enc
 - 4x M3x16mm screws
 ## Images
 ![CAD Screenshot](Assets/cad.png)
+![Schematic Screenshot](Assets/schematic.png)
+![PCB Screenshot](Assets/pcb.png)

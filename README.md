@@ -4,6 +4,7 @@ This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary enc
 - 1x 0.96" OLED Screen
 - 1x EC11 Rotary Encoder 
 - 9x MX Switches
+-- dede
 - 10x 1N4148 Diodes
 - 1x Seeed XIAO RP2040
 - 9x DSA Keycaps

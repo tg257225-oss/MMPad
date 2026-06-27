@@ -1,5 +1,5 @@
 # MMPad
-This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary encoder and OLED display (which will most likely be Jolteon). This project was really fun (and frustrating) to make, but I did learn a lot and hope to make an even better one in the future!
+This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary encoder and OLED display (which will likely be Jolteon). This project was really fun (and frustrating) to make, but I did learn a lot and hope to make an even better one in the future!
 ## BOM
 - 1x 0.96" OLED Screen
 - 1x EC11 Rotary Encoder 

@@ -7,7 +7,7 @@ This is my first macro pad. Its a simple 3x3 grid of switches, with a rotary enc
 - 10x 1N4148 Diodes - $2.99 on Keebio 
 - 1x Seeed XIAO RP2040 $3.99 on SeeedStudio
 - 9x DSA Keycaps - $0.99 on AliExpress (10-count DSA 1U Black Keycaps)
-- 4x M3x16mm screws $8.99 on Amazon
+- 4x M3x16mm screws - $8.99 on Amazon
 ### Total is $23.84
 ## Images
 ![CAD Screenshot](Assets/cad.png)

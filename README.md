@@ -9,6 +9,7 @@ The PCB and Schematic were designed in Kicad.
 The case and plate were designed in Fusion360. 
 ![CAD Screenshot](Assets/cad.png)
 ![Plate and Case Separated Screenshot](Assets/plateandcase.png)
+![Case and PCB](Assets/casepcbinside.png)
 
 ## BOM
 - 1x 0.96" OLED Screen - $3.90 on SeeedStudio
